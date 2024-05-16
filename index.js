@@ -1,4 +1,4 @@
-import { errors, ethers } from "./ethers-5.2.esm.min.js"
+import { ethers } from "./ethers-5.2.esm.min.js"
 import { abi, contractAddress } from "./constants.js"
 
 // console.log("ethers", ethers)
