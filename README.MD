@@ -1,2 +1,1 @@
-1. HTML/Javascript
-   Later on, we will use NextJs/ReactJs
+Solidity Smart contract in HTML/Javascript
